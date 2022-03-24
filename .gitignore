@@ -1,0 +1,3 @@
+# Project exclude paths
+/action-admin/target/
+/action-common/target/
